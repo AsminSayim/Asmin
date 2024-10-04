@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/AsminSayim/AsminSayim/blob/main/img/Github%20Banner.jpg)
+
 ![](https://komarev.com/ghpvc/?username=AsminSayim&color=blue)
 <div align="center">
  <a href="https://github.com/AsminSayim">
@@ -16,12 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://linkedin.com/in/asmin sayim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmin sayim" height="30" width="40" /></a>
-<a href="https://medium.com/@asminsayim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagatayakkas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/asmin sayim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asmin sayim" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asmin sayim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asmin sayim" height="30" width="40" /></a>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </p>
 
 
@@ -54,9 +50,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asmin Sayim/AsminSayim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsminSayim/AsminSayim/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AsminSayim/AsminSayim/output/github-contribution-grid-snake.svg">
 </picture>
 
 
